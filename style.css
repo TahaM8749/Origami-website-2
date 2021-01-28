@@ -1,0 +1,14 @@
+.header{
+    background-color: cyan;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.item{
+    border: 2px solid cyan;
+}
